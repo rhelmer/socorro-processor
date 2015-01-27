@@ -1,1 +1,1 @@
-worker: socorro processor
+worker: socorro-processor
