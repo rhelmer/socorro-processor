@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='socorro-processor',
-    version='master',
+    version='0.1',
     description=('Socorro Processor is a server to process Breakpad crash reports.'),
     author='Mozilla',
     author_email='socorro-dev@mozilla.com',
